@@ -19,6 +19,7 @@ Thumbs.db
 *.swp
 out/
 .build
+.npmrc
 node_modules
 .cache
 examples
